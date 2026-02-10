@@ -2,7 +2,9 @@
   <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&size=32&duration=2800&pause=2000&color=A855F7&center=true&vCenter=true&width=940&lines=Hi+there+%F0%9F%91%8B+I'm+Farisha+N+A;MCA+Student+%7C+Software+Developer;Building+Projects+%26+Learning+Every+Day" alt="Typing SVG" />
 </div>
 
-<h3 align="center">💜 Passionate about creating & learning through code 💜</h3>
+<p align="center">
+  <samp>Focused on learning, building projects, and improving core programming skills</samp>
+</p>
 
 <div align="center">
   
@@ -10,9 +12,10 @@
   
 </div>
 
+
 ---
 
-### 🌸 About Me
+###  About Me
 ```javascript
 const farisha = {
     education: "MCA @ Mar Athanasius College of Engineering",
@@ -24,7 +27,7 @@ const farisha = {
 
 ---
 
-### 💻 Languages and Tools
+###  Languages and Tools
 
 <div align="center">
 
@@ -39,30 +42,24 @@ const farisha = {
 
 ![React](https://img.shields.io/badge/React-20232A?style=for-the-badge&logo=react&logoColor=61DAFB)
 ![Node.js](https://img.shields.io/badge/Node.js-339933?style=for-the-badge&logo=nodedotjs&logoColor=white)
-![Express.js](https://img.shields.io/badge/Express.js-000000?style=for-the-badge&logo=express&logoColor=white)
-![Django](https://img.shields.io/badge/Django-092E20?style=for-the-badge&logo=django&logoColor=white)
-![Flask](https://img.shields.io/badge/Flask-000000?style=for-the-badge&logo=flask&logoColor=white)
-![Bootstrap](https://img.shields.io/badge/Bootstrap-7952B3?style=for-the-badge&logo=bootstrap&logoColor=white)
 
 ![MySQL](https://img.shields.io/badge/MySQL-4479A1?style=for-the-badge&logo=mysql&logoColor=white)
 
 ![Git](https://img.shields.io/badge/Git-F05032?style=for-the-badge&logo=git&logoColor=white)
-![Linux](https://img.shields.io/badge/Linux-FCC624?style=for-the-badge&logo=linux&logoColor=black)
 
 </div>
 
 ---
 
-### 📈 GitHub Stats
-
+###  GitHub Stats
 
 <p align="center">
-  <img src="https://github-readme-activity-graph.vercel.app/graph?username=farishana&theme=react-dark&bg_color=20232a&hide_border=true&area=true&custom_title=Contribution%20Graph" width="95%"/>
+<img src="https://github-readme-activity-graph.vercel.app/graph?username=farishana&theme=react-dark&bg_color=20232a&color=A855F7&line=A855F7&point=C084FC&hide_border=true&area=false&custom_title=Contribution%20Graph" width="75%" />
 </p>
 
 ---
 
-### 💌 Connect With Me
+###  Connect With Me
 
 <p align="center">
   <a href="mailto:farishana426@gmail.com">
