@@ -42,7 +42,7 @@ const farisha = {
   <a href="mailto:farishana426@gmail.com">
     <img src="https://skillicons.dev/icons?i=gmail" />
   </a>
-  <a href="https://linkedin.com/in/yourprofile">
+  <a href="https://linkedin.com/in/farisha-na">
     <img src="https://skillicons.dev/icons?i=linkedin" />
   </a>
 </p>
