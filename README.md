@@ -33,7 +33,8 @@ const farisha = {
 ### GitHub Stats
 
 <p align="center"> 
-  <img src="https://github-readme-activity-graph.vercel.app/graph?username=farishana&theme=react-dark&bg_color=20232a&color=A855F7&line=A855F7&point=C084FC&hide_border=true&area=false" width="65%" /> 
+  <img src="https://github-readme-activity-graph.vercel.app/graph?username=farishana&theme=react-dark&bg_color=20232a&color=A855F7&line=A855F7&point=C084FC&hide_border=true&area=false"
+       style="width:100%; max-height:150px;"/>
 </p>
 
 ### Connect With Me
